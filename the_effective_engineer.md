@@ -51,3 +51,5 @@ Edmond Lau. “The Effective Engineer: How to Leverage Your Efforts in Software 
 - The right focus can significantly accerlate a product's growth rate.
 - Always more tasks to do than you have time for.
 - **Don't try to get everything done.** Focus on what produces the highest value.
+
+![Partitioning of activities based on urgency and importance.](https://www.dropbox.com/s/2cse2o8aixaftgw/Screen%20Shot%202020-11-08%20at%2011.37.57%20AM.png)
