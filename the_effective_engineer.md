@@ -45,3 +45,9 @@ Edmond Lau. “The Effective Engineer: How to Leverage Your Efforts in Software 
 - How often do individuals switch teams or projects?
 - What breadth of the codebase can an individual expect to work on over the course of a year?
 - Do engineers participate in discussions on product design and influence product direction?”
+
+## Prioritize Regularly
+
+- The right focus can significantly accerlate a product's growth rate.
+- Always more tasks to do than you have time for.
+- **Don't try to get everything done.** Focus on what produces the highest value.
