@@ -10,5 +10,5 @@ Edmond Lau. “The Effective Engineer: How to Leverage Your Efforts in Software 
 
 ## Table of Contents
 
-- [Seek Work Environments Conducive to Learning](ch1-seek-work-invironments-conductive-to-learning)
-- [Prioritize Regularly](ch2-prioritize-regularly)
+- [Seek Work Environments Conducive to Learning](./ch1-seek-work-invironments-conductive-to-learning.md)
+- [Prioritize Regularly](./ch2-prioritize-regularly.md)
