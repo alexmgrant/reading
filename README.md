@@ -1,4 +1,7 @@
-# reading 📖
-Books I'm Reading and Take Aways 
+# Reading 📖
 
-[The Effective Engineer](https://github.com/alexmgrant/reading/blob/main/the_effective_engineer.md)
+___
+Books I'm Reading and Take Aways
+___
+
+**[The Effective Engineer](the-effective-manager/README.md)**

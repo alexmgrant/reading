@@ -1,8 +1,4 @@
-# The Effective Engineer
-
-Edmond Lau. “The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact.”
-
-## Seek Work Environments Conducive to Learning
+# Seek Work Environments Conducive to Learning
 
 ### Fast Growth
 
@@ -46,10 +42,3 @@ Edmond Lau. “The Effective Engineer: How to Leverage Your Efforts in Software 
 - What breadth of the codebase can an individual expect to work on over the course of a year?
 - Do engineers participate in discussions on product design and influence product direction?
 
-## Prioritize Regularly
-
-- The right focus can significantly accerlate a product's growth rate.
-- Always more tasks to do than you have time for.
-- **Don't try to get everything done.** Focus on what produces the highest value.
-
-![Partitioning of activities based on urgency and importance.](https://www.dropbox.com/s/2cse2o8aixaftgw/Screen%20Shot%202020-11-08%20at%2011.37.57%20AM.png)
