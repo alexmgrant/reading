@@ -1,7 +1,11 @@
 # Reading 📖
 
-___
-Books I'm Reading and Take Aways
-___
+---
+
+Book Take Aways
+
+---
 
 **[The Effective Engineer](./the-effective-engineer/README.md)**
+
+**[Staff Engineer](./staff-engineer/README.md)**
