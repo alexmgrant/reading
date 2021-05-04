@@ -39,4 +39,4 @@ Product domain is owned by a team independent of who is on the team.
 
 Setting technical direction is about understanding and solving the needs of the organization over prioritizing technology you're interested in. This can mean passing high profile/exciting work to someone who may benefit more from it than you.
 
-> The quality of of an architect's decisions degrade the further they get from doing real work on real code in the real process
+> The quality of an architect's decisions degrade the further they get from doing real work on real code in the real process
