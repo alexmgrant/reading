@@ -60,3 +60,13 @@ Tasks that aid in situational awareness
   - read PR's across org
   - read tech specs & proposals that are public
   - attend/watch internal presentations focused on relavent product areas 
+
+Write it down / write a lot
+> If you can't capture a problem statement or idea in a coherent, concise paragraph you need to do more research and you'll have a rough time trying to convince others
+
+Make your managers job easier
+- bring them multiple recommendations / suggestions for solutions and ask for feedback
+
+Think intentionally about creating opportunities for other engineers you work with to grow their skills and get access to visibility
+
+Build Relationships early
