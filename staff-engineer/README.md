@@ -70,3 +70,5 @@ Make your managers job easier
 Think intentionally about creating opportunities for other engineers you work with to grow their skills and get access to visibility
 
 Build Relationships early
+
+For advocacy Remind ourselves what the pain points are that everyone felt that led to the change/meeting/feature/project
