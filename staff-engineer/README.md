@@ -71,4 +71,4 @@ Think intentionally about creating opportunities for other engineers you work wi
 
 Build Relationships early
 
-For advocacy Remind ourselves what the pain points are that everyone felt that led to the change/meeting/feature/project
+For advocacy remind ourselves what the pain points are that everyone felt that led to the change/meeting/feature/project
