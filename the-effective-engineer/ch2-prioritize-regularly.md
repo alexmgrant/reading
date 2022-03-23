@@ -1,6 +1,6 @@
 # Prioritize Regularly
 
-- The right focus can significantly accerlate a product's growth rate.
+- The right focus can significantly accelerate a product's growth rate.
 - Always more tasks to do than you have time for.
 - **Don't try to get everything done.** Focus on what produces the highest value.
 
